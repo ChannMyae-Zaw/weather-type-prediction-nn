@@ -5,5 +5,5 @@ mlflow
 torchmetrics
 kagglehub
 numpy
-yaml
+PyYAML
 argparse
