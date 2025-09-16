@@ -8,6 +8,7 @@ from src.utils.preprocessing import WeatherPreprocessor
 import joblib
 from fastapi.responses import HTMLResponse
 from src.models.model import WeatherMLP
+import os
 
 # Replace with your run ID
 # RUN_ID = "c96c3a23c6324bb68254903eb4d5e331"
