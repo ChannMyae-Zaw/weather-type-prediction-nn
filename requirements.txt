@@ -1,9 +1,13 @@
 pandas
 scikit-learn
 torch
-mlflow
 torchmetrics
-kagglehub
+mlflow
 numpy
 PyYAML
+joblib
+fastapi
+uvicorn
 argparse
+kagglehub
+

@@ -9,6 +9,7 @@ import joblib
 from fastapi.responses import HTMLResponse
 from src.models.model import WeatherMLP
 import os
+import uvicorn
 
 # Replace with your run ID
 # RUN_ID = "c96c3a23c6324bb68254903eb4d5e331"
@@ -406,8 +407,6 @@ def home():
         </html>
     """
 
-import uvicorn
-
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8000))  # Use Render's PORT if available
-    uvicorn.run("src.serve.app:app", host="0.0.0.0", port=port, reload=True)
+    uvicorn.run("src.serve.app:app", host="0.0.0.0", port=port)
