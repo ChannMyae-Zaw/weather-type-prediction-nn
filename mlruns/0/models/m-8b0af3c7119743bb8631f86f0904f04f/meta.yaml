@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/User/OneDrive/%E6%96%87%E6%A1%A3/GitHub/weather-type-prediction-nn/mlruns/0/models/m-8b0af3c7119743bb8631f86f0904f04f/artifacts
+creation_timestamp: 1757862546272
+experiment_id: '0'
+last_updated_timestamp: 1757862553305
+model_id: m-8b0af3c7119743bb8631f86f0904f04f
+model_type: null
+name: weather_mlp_model
+source_run_id: 39e27b013d8847809a6188ad5a459a5b
+status: 2
+status_message: null

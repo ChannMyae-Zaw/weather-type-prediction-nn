@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/OneDrive/%E6%96%87%E6%A1%A3/GitHub/weather-type-prediction-nn/mlruns/0/bfc2dcdc1c0145b499392c5ad4742864/artifacts
+deleted_time: 1757947116671
+end_time: 1757863313525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bfc2dcdc1c0145b499392c5ad4742864
+run_name: Weather_MLP
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757863284011
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/User/OneDrive/%E6%96%87%E6%A1%A3/GitHub/weather-type-prediction-nn/mlruns/0/models/m-0e78c9e4f7994fe78b47cd104104eaa7/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.13.0
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.7.1+cpu
+mlflow_version: 3.3.2
+model_id: m-0e78c9e4f7994fe78b47cd104104eaa7
+model_size_bytes: 26009
+model_uuid: m-0e78c9e4f7994fe78b47cd104104eaa7
+prompts: null
+run_id: 0926865991f34820a58d15d5b840bdba
+utc_time_created: '2025-09-15 09:03:39.965738'

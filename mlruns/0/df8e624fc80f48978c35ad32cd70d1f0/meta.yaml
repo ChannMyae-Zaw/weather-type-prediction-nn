@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/OneDrive/%E6%96%87%E6%A1%A3/GitHub/weather-type-prediction-nn/mlruns/0/df8e624fc80f48978c35ad32cd70d1f0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df8e624fc80f48978c35ad32cd70d1f0
+run_name: indecisive-finch-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757926446702
+status: 1
+tags: []
+user_id: User

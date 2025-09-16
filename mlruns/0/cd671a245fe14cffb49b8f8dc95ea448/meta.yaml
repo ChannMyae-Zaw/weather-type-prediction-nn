@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/OneDrive/%E6%96%87%E6%A1%A3/GitHub/weather-type-prediction-nn/mlruns/0/cd671a245fe14cffb49b8f8dc95ea448/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd671a245fe14cffb49b8f8dc95ea448
+run_name: unique-asp-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757926757813
+status: 1
+tags: []
+user_id: User
