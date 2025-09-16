@@ -404,3 +404,9 @@ def home():
         </body>
         </html>
     """
+
+import uvicorn
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))  # Use Render's PORT if available
+    uvicorn.run("src.serve.app:app", host="0.0.0.0", port=port, reload=True)
