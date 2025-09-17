@@ -3,7 +3,7 @@
 A neural network web application that predicts the weather type (**Sunny, Snowy, Cloudy, Rainy**) from user-provided weather metrics.  
 The model is trained with neural networks and achieves **90%+ accuracy** on test and validation sets.  
 
-🌐 **Live Demo:** [Weather Predictor]([https://weather-type-prediction-nn.onrender.com])  
+🌐 **Live Demo:** [Weather Predictor](https://weather-type-prediction-nn.onrender.com)  
 
 ---
 
@@ -54,3 +54,4 @@ The model is trained with neural networks and achieves **90%+ accuracy** on test
 - 📧 [channmyaezaw0@gmail.com](mailto:channmyaezaw0@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chann-myae-zaw-37373632a)  
 - 💻 [GitHub](https://github.com/ChannMyae-Zaw)
+
